@@ -10,7 +10,7 @@ package Module::CoreList::List;
 
 This distribution contains POD pages that list core modules by perl version:
 
-# INSERT_MODULES_LIST /^Modules::CoreList::List::/
+# INSERT_MODULES_LIST /^Module::CoreList::List::/
 
 The data comes from L<Module::CoreList> version:
 
